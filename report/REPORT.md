@@ -2,7 +2,7 @@
 
 **Họ tên:** Nguyễn Tuấn Khải
 **MSSV:** 2A202600231
-**Nhóm:** Nhóm Luật pháp Việt Nam (2025-2026)
+**Nhóm:** Nhóm C401-D6
 **Ngày:** 10/04/2026
 
 ---
