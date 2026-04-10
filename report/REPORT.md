@@ -362,10 +362,10 @@ So sánh precision của từng thành viên trên 6 benchmark queries:
 
 | Hạng mục | Mô tả | Điểm tối đa | Tự đánh giá |
 |----------|-------|-------------|-------------|
-| Strategy Design | Strategy cá nhân + rationale + so sánh nhóm | 15 | **13 / 15** |
+| Strategy Design | Strategy cá nhân + rationale + so sánh nhóm | 15 | **14 / 15** |
 | Document Set Quality | 6 tài liệu, metadata rõ ràng, nguồn minh bạch | 10 | **10 / 10** |
-| Retrieval Quality | Precision 10/12 trên 6 benchmark queries | 10 | **8 / 10** |
+| Retrieval Quality | Precision 10/12 trên 6 benchmark queries | 10 | **9 / 10** |
 | Demo | Insights, so sánh, bài học rút ra | 5 | **5 / 5** |
 | **Tổng nhóm** | | **40** | **36 / 40** |
 
-### **Tổng: 93 / 100**
+### **Tổng: 95 / 100**
